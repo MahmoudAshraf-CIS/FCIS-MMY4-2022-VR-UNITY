@@ -3,16 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - bullet
+  tags: []
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - wall
+  - 
   - Water
   - UI
-  - target
+  - 
   - 
   - 
   - 
